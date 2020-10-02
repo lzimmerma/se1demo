@@ -1,3 +1,4 @@
+// LZ was here ;)
 /**
  * node.js webserver simple demo
  * author: Stephan Schiffner
